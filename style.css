@@ -1,0 +1,58 @@
+body {
+    width: 90%;
+    margin: auto;
+    /*background-color: yellow;*/
+    background: rgb(212,237,22);
+    background: linear-gradient(90deg, rgba(212,237,22,1) 0%, rgba(84,20,90,1) 100%);
+    /*background-image: url("https://i1.wp.com/trekkingsapa.com/wp-content/uploads/2015/09/Sapa-Rice-Terrace.jpg?resize=620%2C413&ssl=1");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;*/
+}
+
+p {
+    font-family: "Droid Serif";
+    word-spacing: 1em;
+    font-size: 16px;
+    color: #373F52;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: deeppink;
+}
+
+q {
+    width: 50%;
+    display: block;
+    font-size: 160%;
+    background-color: lightgray;
+    border-left: dashed 3px;
+    padding-left: 30px;
+    margin: 80px auto;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.villagers {
+    border-color: blue;
+    font-style: italic;
+}
+
+.farmer {
+    border-color: deeppink;
+    font-style: italic;
+}
+
+header h1:first-child {
+    background-color: yellow;
+}
