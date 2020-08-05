@@ -2,8 +2,8 @@ body {
     width: 90%;
     margin: auto;
     /*background-color: yellow;*/
-    background: rgb(212,237,22);
-    background: linear-gradient(90deg, rgba(212,237,22,1) 0%, rgba(84,20,90,1) 100%);
+    background: rgb(212, 237, 22);
+    background: linear-gradient(90deg, rgba(212, 237, 22, 1) 0%, rgba(84, 20, 90, 1) 100%);
     /*background-image: url("https://i1.wp.com/trekkingsapa.com/wp-content/uploads/2015/09/Sapa-Rice-Terrace.jpg?resize=620%2C413&ssl=1");
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -59,7 +59,7 @@ header p {
     background-color: yellow;
 }
 
-[attribute]{
+[attribute] {
     font-style: italic;
 }
 
@@ -72,7 +72,7 @@ header p {
 }
 
 table tr:nth-child(odd) {
-    background-color: white ;
+    background-color: white;
 }
 
 table tr:nth-child(even) {
