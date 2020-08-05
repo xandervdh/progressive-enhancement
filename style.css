@@ -53,6 +53,47 @@ q {
     font-style: italic;
 }
 
-header h1:first-child {
+header p {
     background-color: yellow;
+}
+
+[attribute]{
+    font-style: italic;
+}
+
+[attribute=good] {
+    color: green;
+}
+
+[attribute=bad] {
+    color: red;
+}
+
+table tr:nth-child(odd) {
+    background-color: white ;
+}
+
+table tr:nth-child(even) {
+    background-color: grey;
+}
+
+article p:first-of-type {
+    font-weight: bold;
+}
+
+figure {
+    float: left;
+    margin-right: 5%;
+}
+
+article {
+    float: left;
+}
+
+table {
+    float: left;
+}
+
+footer {
+    float: left;
 }
