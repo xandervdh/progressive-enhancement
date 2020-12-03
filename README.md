@@ -1,5 +1,5 @@
 # progressive-enhancement
 
-this is the link to view a live demo of the exercize
+In this [challenge](5.Exercise-Progressive-Enhancement.md) we learned to work with semanticks in HTML
 
-https://xandervdh.github.io/progressive-enhancement/
+[Live demo](https://xandervdh.github.io/progressive-enhancement/)
